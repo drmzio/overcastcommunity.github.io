@@ -20,15 +20,21 @@ administrators:
 developers:
   color: "#800080"
   members:
-    - username: Pablete1234
-      id: e82603df-417d-4a95-bd1f-1720648be0b4
-      links:
-        github: Pablete1234
     - username: Indicado
       id: 9b4fbb38-ed55-44ad-b510-9f0197433f93
+      role: OCC & Bolt
       links:
         email: me@indicado.org
         github: Indicardo
+    - username: unixfox
+      id: 02407912-8bbf-4b7b-a34c-a45339841436
+      role: Bolt
+    - username: dentmaged
+      id: 30401f63-f5bb-4f24-9a5a-0ecd5f706115
+      role: Bolt
+    - username: Pugzy
+      id: 75fd93dd-8e48-4698-81a2-97dae2ec5b5f
+      role: Bolt
 map developers:
   color: "#06d"
   members:
@@ -38,38 +44,42 @@ map developers:
       id: 75fd93dd-8e48-4698-81a2-97dae2ec5b5f
     - username: Nixani
       id: 2958ea4c-3501-404e-88cc-12e8632f68cc
-    - username: SomeDudeWithADHD
+    - username: someGuyWithADHD
       id: 6803561d-f62e-47b1-ac86-f21bbe685342
     - username: _DISTRACTION_
       id: f876b863-1ccd-4ae2-acad-8a09e2209e81
     - username: CoWinkKeyDinkInc
       id: 5c79d2c9-a4f0-4343-a84b-e1720f13009b
-event managers:
-  color: "#088"
+    - username: mame_BT
+      id: 430ec559-364a-4363-ac7a-2529050440ac
+head of events:
+  color: "#f0c30f"
   members:
-    - username: Pablete1234
-      id: e82603df-417d-4a95-bd1f-1720648be0b4
     - username: Campeh
       id: 61f8e9dd-62ab-453a-b7ef-83ce8a383fe8
     - username: TiTo_418
       id: 8d02e486-66d5-46bf-8e6b-81e18ef9e6c7
-    - username: Pibo
-      id: 65ffe1e4-d09e-4835-85d3-bfa6972b8a25
     - username: Ralloi
       id: e79aa605-fcac-44e2-86eb-30dfc08657d3
+    - username: Strangey
+      id: 621b2aa8-4e5f-4ed8-bd36-0ae2f8952a06
+    - username: wylt
+      id: d71152ca-187d-43c4-9901-ba001606c655
+    - username: PoshEngineer
+      id: a6f7abbe-9081-45f2-9746-b3e918879a81
+    - username: Antnecb
+      id: b1521072-6993-4fe4-ae60-dbeeb7dc0cfa
 moderators:
   color: "#f20"
   members:
     - username: Noel
       id: 1696b5e2-2a7d-4dd0-a67e-45ebdd19359c
-    - username: Pablete1234
-      id: e82603df-417d-4a95-bd1f-1720648be0b4
     - username: Pibo
       id: 65ffe1e4-d09e-4835-85d3-bfa6972b8a25
       role: Marketing
     - username: luisgbr99
       id: 3159ff86-76e2-453c-9ade-5e2ba9918396
-    - username: SomeDudeWithADHD
+    - username: someGuyWithADHD
       id: 6803561d-f62e-47b1-ac86-f21bbe685342
     - username: Kiyara
       id: 15c75bdd-005f-40f6-9e20-1ecf48bb51e5
@@ -89,8 +99,6 @@ moderators:
       id: 5c79d2c9-a4f0-4343-a84b-e1720f13009b
     - username: wylt
       id: d71152ca-187d-43c4-9901-ba001606c655
-    - username: Engineer0711
-      id: 6d71d977-1c55-4bca-b20a-a84af77fe1af
     - username: 2000thehecf1
       id: 408267c4-c749-4312-8e28-8a29113c1329
     - username: Deoz
@@ -105,8 +113,6 @@ moderators:
       id: 97e1e528-27d4-4768-b3e8-7e93b60805b8
     - username: otherkris
       id: 9923dd17-577e-4e9b-b9fe-46c8fb3aa962
-    - username: Darkrowo
-      id: c837bed6-bd3e-4e4b-8217-f093d8b35452
     - username: Brumei
       id: af9c1942-af66-42d1-89f9-9b677c281e03
     - username: _DISTRACTION_
@@ -137,3 +143,23 @@ moderators:
       id: 98fccebe-d58b-4735-9e03-79683ca47bc4
     - username: Witmoos
       id: bb2c7f64-5aa1-452c-a6da-515862f033cb
+    - username: MajorMcDonalds
+      id: a53b7c56-ddc6-4fcb-a121-9a3829aabc28
+    - username: alejitox
+      id: a90be681-0d8d-4d76-9094-c609a5d4596a
+    - username: ImJeezus
+      id: 20985d45-20c1-45f7-a7e9-daeaf7c08c2e
+    - username: Josh123uaJ
+      id: fc7ab053-d7c0-454c-8a27-8965d6455b16
+    - username: Target
+      id: 46d1f4a5-023b-47c2-b69f-6bbe060a5072
+    - username: CincoDeMayo
+      id: 57c4813e-ecc2-4aee-9479-8d58991d1a0c
+    - username: xTrina
+      id: 0a359aef-794b-4d88-97ca-5672d9421532
+    - username: Antnecb
+      id: b1521072-6993-4fe4-ae60-dbeeb7dc0cfa
+    - username: drunken
+      id: 28ef7c16-854d-4a0b-965c-9c9fe0d7d1f8
+    - username: bend
+      id: 36dc036a-dfbc-4627-b66a-501223f08075
